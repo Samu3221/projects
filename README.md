@@ -1,2 +1,2 @@
 # projects
-things im trying out most of them dont work
+Things im trying out, most of them dont work.
